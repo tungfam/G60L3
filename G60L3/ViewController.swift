@@ -27,4 +27,13 @@ class ViewController: UIViewController {
         print("methodInSimulateConflictBranch")
     }
 
+    func masterBranchMethod() {
+        print("masterBranchMethod")
+        print("masterBranchMethod")
+        print("masterBranchMethod")
+        print("masterBranchMethod")
+        print("masterBranchMethod")
+        print("masterBranchMethod")
+    }
+
 }
