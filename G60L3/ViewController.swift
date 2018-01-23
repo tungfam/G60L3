@@ -15,10 +15,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-    func masterFunc() {
-        print("hello")
-    }
-
     func dz1Task1() {
         print("this is DZ 1 task 1 method")
     }
