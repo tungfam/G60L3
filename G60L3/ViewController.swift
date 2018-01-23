@@ -19,7 +19,12 @@ class ViewController: UIViewController {
         print("this is DZ 1 task 1 method")
     }
 
-
-    
+    func methodInSimulateConflictBranch() {
+        print("methodInSimulateConflictBranch")
+        print("methodInSimulateConflictBranch")
+        print("methodInSimulateConflictBranch")
+        print("methodInSimulateConflictBranch")
+        print("methodInSimulateConflictBranch")
+    }
 
 }
