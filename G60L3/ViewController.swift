@@ -19,5 +19,8 @@ class ViewController: UIViewController {
         print("hello")
     }
 
-}
+    func dz1Task1() {
+        print("this is DZ 1 task 1 method")
+    }
 
+}
